@@ -7,12 +7,12 @@
     "com.external.extenject": "3.3.0",
     "com.innovecs.behaviortree.unity3d": "5.0.8"
   },
-  "description": "This is an empty project that contains Innovecs packages and basic scenes.",
+  "description": "This is an empty project template that contains Innovecs packages and basic scenes.",
   "displayName": "Innovecs template 2D",
   "host": "hub",
   "name": "com.innovecs.template.2d",
   "type": "template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "url" : "https://github.com/mypaxa00-innovecs/com.innovecs.template.2d",
     "type": "git"
