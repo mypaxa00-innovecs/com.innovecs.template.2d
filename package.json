@@ -2,14 +2,17 @@
   "dependencies": {
     "com.unity.feature.2d": "1.0.0",
     "com.unity.textmeshpro": "3.0.6",
-    "com.unity.ugui": "1.0.0"
+    "com.unity.ugui": "1.0.0",
+    "com.unity.addressables": "1.21.2",
+    "com.external.extenject": "3.3.0",
+    "com.innovecs.behaviortree.unity3d": "5.0.8"
   },
   "description": "This is an empty project that contains Innovecs packages and basic scenes.",
   "displayName": "Innovecs template 2D",
   "host": "hub",
   "name": "com.innovecs.template.2d",
   "type": "template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url" : "git@github.com:mypaxa00-innovecs/com.innovecs.template.2d.git",
     "type": "git"
