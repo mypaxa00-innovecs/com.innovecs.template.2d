@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "com.unity.feature.2d": "1.0.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.ugui": "1.0.0",
+    "com.innovecs.state" : "ssh://git@bitbucket.org/innovecs/com.innovecs.state.git#1.4.3",
+    "com.innovecs.behaviortree" : "ssh://git@bitbucket.org/innovecs/com.innovecs.behaviortree.git#4.3.11",
+    "com.innovecs.behaviortree.unity3d" : "ssh://git@bitbucket.org/innovecs/com.innovecs.behaviortree.unity3d.git#5.0.8",
+    "com.external.extenject" : "ssh://git@bitbucket.org/innovecs/com.external.extenject.git#3.3.0",
+    "com.unity.addressables" : "1.21.2",
+    "com.innovecs.addressables" : "ssh://git@bitbucket.org/innovecs/com.innovecs.addressables.git#1.0.2"
+  }
+}

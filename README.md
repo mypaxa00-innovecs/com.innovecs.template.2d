@@ -1,1 +1,1 @@
-# com.innovecs.template.2d
+# com.innovecs.templates.2d
